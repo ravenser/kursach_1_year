@@ -1,4 +1,3 @@
-# kursach_1_year
-Kursach - Animals-10 
-KursachG2 - Garbage Collective Data For Nature Conservation
+Kursach - Animals-10 \n
+KursachG2 - Garbage Collective Data For Nature Conservation\n
 KursachG3 - Chest X-Ray Images (Pneumonia)
